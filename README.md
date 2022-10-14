@@ -16,8 +16,10 @@ Detailed Expalanation for the Dataset:
 
 - scenes2dgt folder also contains the same scene subfolders with bg, fg, and full_images folders, which further includes the frame number, ID, class label, and bounding-box locations as the ground-truth for each ID.
 - The code repository for generating the results are located at: https://github.com/bayraktare/fast_re_OBJ
+
 Citing Fast re-OBJ:
 If you find this dataset or paper itself useful in your research, please consider citing as follows:
+
 @article{bayraktar2022fast,
   title={Fast re-OBJ: Real-time object re-identification in rigid scenes},
   author={Bayraktar, Ertugrul and Wang, Yiming and Del Bue, Alessio},
