@@ -22,11 +22,14 @@ Detailed Expalanation for the Dataset:
 ## Citing Fast re-OBJ:
 If you find this dataset or paper itself useful in your research, please consider citing as follows:
 
-@article{bayraktar2022fast,
-  title={Fast re-OBJ: Real-time object re-identification in rigid scenes},
-  author={Bayraktar, Ertugrul and Wang, Yiming and Del Bue, Alessio},
-  journal={Machine Vision and Applications},
-  doi={10.1007/s00138-022-01349-z},
-  year={2022},
-  publisher={Springer}
+@article{bayraktar2022fast, \
+  title={Fast re-OBJ: real-time object re-identification in rigid scenes}, \
+  author={Bayraktar, Ertugrul and Wang, Yiming and DelBue, Alessio}, \
+  journal={Machine Vision and Applications}, \
+  volume={33}, \
+  number={6}, \
+  pages={1--12}, \
+  year={2022}, \
+  publisher={Springer} \
 }
+
